@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I'm a Junior Full Stack and Software Developer from Auckland, New Zealand.
+
+You can find me on:
+[LinkedIn as William Richards](https://www.linkedin.com/in/william-ra-richards-/)
+[Github as William-RA-Richards (you are here)](https://github.com/William-RA-Richards)
