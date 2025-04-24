@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## About Me
 I'm a Junior Full Stack and Software Developer from Auckland, New Zealand.
 
-You can find me on:
-[LinkedIn as William Richards](https://www.linkedin.com/in/william-ra-richards-/)
+You can find me on: <br>
+[LinkedIn as William Richards](https://www.linkedin.com/in/william-ra-richards-/) <br>
 [Github as William-RA-Richards (you are here)](https://github.com/William-RA-Richards)
